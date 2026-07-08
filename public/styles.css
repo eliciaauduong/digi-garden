@@ -1,0 +1,154 @@
+.dm-sans {
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400; /* or any 100–1000 */
+  font-style: normal;
+}
+
+.alice {
+  font-family: "Alice", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+:root {
+  --sidebar-width: 22%;
+  --bg-sidebar: #e8e7b5;
+  --bg-content: #fffbf2;
+  --text-primary: #253921;
+  --text-header: #253921;
+  --text-secondary: #D6BF5E;
+  --text-content: #1a1a1a;
+  --link-color: #8B88F8;
+  --border-color: #e5e5e5;
+  --font-serif: "Alice", serif;
+  --font-sans: "DM Sans", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--text-primary);
+  background: var(--bg-content);
+  line-height: 1.6;
+}
+
+.layout {
+  display: grid;
+  grid-template-columns: var(--sidebar-width) 1fr var(--sidebar-width);
+  min-height: 100vh;
+}
+
+/* Left sidebar (site title + search) */
+header {
+  background: var(--bg-sidebar);
+  padding: 2.5rem;
+  grid-column: 1;
+}
+
+header h1 {
+  font-family: var(--font-serif);
+  font-size: 1.4rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Main content */
+.content {
+  grid-column: 2;
+  padding: 2.5rem;
+  width: 100%;  
+  margin: 0 auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-serif);
+  color: var(--text-header)
+}
+
+.content h1 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.content h2 {
+  font-size: 1.6rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.content .meta {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  margin-bottom: 2rem;
+}
+
+.content p {
+  margin-bottom: 1.2rem;
+  color: var(--text-primary);
+}
+
+.content a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+.content a:hover {
+  text-decoration: underline;
+}
+
+.content ul,
+.content ol {
+  padding-left: 1.5rem;
+  margin-bottom: 1.2rem;
+}
+
+.content li {
+  margin-bottom: 0.4rem;
+}
+
+/* Right sidebar (backlinks) */
+.sidebar-right {
+  background: var(--bg-sidebar);
+  padding: 2.5rem;
+  grid-column: 3;
+}
+
+.sidebar-right h3 {
+  font-family: var(--font-serif);
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.sidebar-right ul {
+  list-style: none;
+}
+
+.sidebar-right li {
+  margin-bottom: 0.6rem;
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.sidebar-right a {
+  color: var(--text-primary);
+  text-decoration: none;
+}
+
+.sidebar-right a:hover {
+  color: var(--bg-content);
+}
+
+/* Responsive: collapse to single column below 900px */
+@media (max-width: 900px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
+  header, .content, .sidebar-right {
+    grid-column: 1;
+  }
+}
