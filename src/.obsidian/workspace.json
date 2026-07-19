@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a747aabf2adfd947",
+            "id": "04133d9320282f25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/thoughts/north-star.md",
+                "file": "posts/projects/practice-call.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "north-star"
+              "title": "practice-call"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9222d802fd275d04",
@@ -183,34 +184,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "a747aabf2adfd947",
+  "active": "04133d9320282f25",
   "lastOpenFiles": [
+    "posts/projects/project dispatch.md",
+    "posts/projects/wave.md",
+    "posts/projects/practice-call.md",
+    "posts/projects/merch design.md",
+    "posts/projects/hush.md",
+    "posts/projects/hardware.md",
+    "posts/projects/digital garden.md",
+    "posts/projects/crafts backlog.md",
+    "posts/blogs/you have to go through it.md",
+    "posts/thoughts/north-star.md",
     "posts/research/set-design.md",
     "posts/research/fandoms.md",
     "posts/research/digital ownership.md",
     "posts/research/digital loyalty.md",
     "posts/research/data asymmetry.md",
     "posts/blogs/we have to stop meeting like this.md",
-    "posts/projects/hush.md",
     "posts/projects/zines.md",
     "index.md",
-    "posts/projects/Wave.md",
     "posts/projects/project 0.md",
     "posts/research/algorithmic transparency.md",
     "posts/thoughts/prophecy.md",
     "posts/research/cognitive capacity.md",
-    "posts/thoughts/north-star.md",
     "posts/research/trust as infrastructure.md",
     "posts/research/web3.md",
     "posts/thoughts/concert-experience.md",
-    "posts/projects/crafts backlog.md",
     "posts/research/hyperreality.md",
-    "posts/research/hybrid ecosystems.md",
-    "posts/projects/craft loyalty.md",
-    "posts/projects/project dispatch.md",
-    "posts/thoughts/technical barriers.md",
-    "posts/research/top-mind.md",
-    "posts/research/post-attention economy.md",
     "_data/stageEmoji.js",
     "_data"
   ]
