@@ -16,5 +16,8 @@ I have found that with this method, I'm closing the open loops, freeing up my mi
 
 ## Little wins
 Reminders that this is working for me:
-- I built the structure and design for this [[digital garden]] in 1 day.
-- [[Wave]] was built in 1 week.
+| Project            	| Idea to build time	|
+|--------------------	|-------------------	|
+| [[digital garden]] 	| 1 day              	|
+| [[wave]]           	| 1 week            	|
+| [[practice-call]]  	| 2 days            	|
