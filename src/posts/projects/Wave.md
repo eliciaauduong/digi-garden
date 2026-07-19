@@ -2,7 +2,6 @@
 title: Wave
 stage: bloom
 ---
-
 ## What is Wave?
 Wave helps you spend more time with your friends on the activities that you said you'll do together one day. This app is designed for mobile - [you can try it out here](http://activity-wave.surge.sh)!
 

@@ -2,7 +2,6 @@
 title: Crafts backlog
 stage: seedling
 ---
-
 Art and craft ideas that I've stumbled on and want to make someday.
 
 1. [[zines]]

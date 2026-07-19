@@ -11,5 +11,5 @@ I like to think *a lot* and this garden is my way of getting thoughts and ideas 
 Learn more about [[north-star|my north star]] or [[project dispatch|see what I'm creating]]. 
 
 Here are my latest updates:
-- [[Wave]] - my first web app!
+- [[practice-call|Practice Call]] - my latest project!
 - An introduction to [[set-design|set design]]
