@@ -1,6 +1,6 @@
 ---
 title: Practice Call
-stage: seedling
+stage: bloom
 ---
 ## What is Practice Call?
 Practice Call is a website to set up quick, short timed exercises. [You can check it out here](https://practice-call.surge.sh)!
