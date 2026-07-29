@@ -2,8 +2,8 @@
 title: Curiosity and play as my north star
 aliases:
   - north star
+stage: evergreen
 ---
-
 Figuring out what you want to do is hard. Add on the fact that technological advances each day make committing to a single path feel like building a house on jelly. Everything feels like it's moving too fast, but it was never about the race.
 
 I believe, we spend too much of our time working to not have fun. Because fun is the differentiator against the others. If you're having fun, it's going to be much easier and enjoyable for you than somebody else who treats the work like, well, work. And who doesn't like fun, you bore.
