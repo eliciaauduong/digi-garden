@@ -17,7 +17,7 @@ I have found that with this method, I'm closing the open loops, freeing up my mi
 ## Little wins
 Reminders that this is working for me:
 | Project            	| Idea to build time	|
-|--------------------	|-------------------	|
+|-------------------	|-------------------	|
 | [[digital garden]] 	| 1 day              	|
-| [[wave]]           	| 1 week            	|
-| [[practice-call]]  	| 2 days            	|
+| [[wave]]           	| 1 week             	|
+| [[practice-call]]  	| 2 days         	    |
