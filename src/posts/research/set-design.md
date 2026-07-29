@@ -4,12 +4,15 @@ stage: bloom
 ---
 I recently completed a two-day **Set Design Essentials** course from NIDA Open and it was probably one of the best learning experiences I've ever had. 
 
-## Concept set designs
+## How I design
+I start every design from the message I want an audience to carry out of the theatre, then explore the possibilities of how far that idea can be extended into physical, visual form.
 
+I look for connections between a story's elements, weaving subtle details into a single structure that draws an audience into its world, unfolding into moments of delight.
+
+## Concept set designs
 To build my skills, confidence and portfolio in set design, I aim to design 1 new set for a play/concept each week. I built [[practice-call|Practice Call]] to help me quick get initial ideas out of my mind and onto the page. Here are some of the concept designs that I have created:
 
 - [They Saw a Thylacine](https://drive.google.com/file/d/13bnVHxYUcIBc8P3UI5D-7mewIhNsaghT/view?usp=sharing) - design from **Set Design Essentials** course @ NIDA Open.
-
 
 ## What's next
 Here are some set design ideas or concepts that I want to try and design next:
