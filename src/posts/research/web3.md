@@ -26,6 +26,6 @@ Decentralisation as a principle conflicts with usability at scale — the more a
 
 ## Connections
 - [[data asymmetry]]
-- [[trust as infrastructure]]
+- [[trust]]
 - [[digital loyalty]]
 - [[digital ownership]]

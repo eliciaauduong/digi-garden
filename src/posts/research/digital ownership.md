@@ -28,7 +28,7 @@ Software updates are often genuinely beneficial — security patches, bug fixes,
 - [[web3]]
 - [[data asymmetry]]
 - [[digital loyalty]]
-- [[trust as infrastructure]]
+- [[trust]]
 
 
 you don't own any media -> netflix vs buying dvd way back when

@@ -15,7 +15,7 @@ Trust operates on two distinct layers that are failing simultaneously. The epist
 Questioning everything is epistemically healthy but societally destabilising — a population that trusts nothing cannot coordinate on shared problems. Also: restoring trust may require platforms to deprioritise engagement, which conflicts directly with their business model. Who has incentive to break the cycle?
 
 ## Open questions
-- What creates a [[cost of community|community built on trust]] — what are the actual conditions and mechanisms? 
+- What creates a community built on trust — what are the actual conditions and mechanisms? 
 - How can trust be restored once broken, and are there documented examples of recovery at scale? 
 - What are the individual and community-level impacts of chronic distrust? 
 - How do we distinguish fact from fiction when AI-generated content makes verification increasingly difficult? https://www.theatlantic.com/ideas/2026/03/ai-confidence-trust/686464/

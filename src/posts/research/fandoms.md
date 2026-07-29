@@ -6,7 +6,7 @@ stage: seedling
 Examine how fan communities form around artists, what sustains them, and why the current model of artist-fan engagement fails to build genuine ongoing relationships. Explore the structural problems of platform dependency and lack of continuity, and what a better model of fan connection could look like.
 
 ## Why this topic
-Being a fan and part of fandoms is a big part of who I am and what I enjoy. I think there's more opportunity to [[digital loyalty|build continuity]] into the fan experience (for example, [[concert-experience|at concerts]]) and explore how artists can [[trust as infrastructure|build trust]], community and connection. 
+Being a fan and part of fandoms is a big part of who I am and what I enjoy. I think there's more opportunity to [[digital loyalty|build continuity]] into the fan experience (for example, [[concert-experience|at concerts]]) and explore how artists can [[trust|build trust]], community and connection. 
 
 ## Working thesis
 Platforms are structurally the wrong venue for genuine artist-fan relationships. Built for broadcast and engagement metrics, they produce performative content rather than real connection. The deeper problem is continuity — the fan carries the full history of the relationship, but the artist and the platform reset it constantly. Every post starts from zero. Genuine fandom is a longitudinal relationship; current platforms are episodic by design.

@@ -28,4 +28,4 @@ Web3 and decentralised data ownership are frequently proposed as solutions, but 
 - [[algorithmic transparency]]
 - [[digital loyalty]]
 - [[web3]]
-- [[trust as infrastructure]]
+- [[trust]]

@@ -24,4 +24,4 @@ Full algorithmic transparency may be technically and commercially impossible —
 
 ## Connections
 - [[data asymmetry]]
-- [[trust as infrastructure]]
+- [[trust]]
