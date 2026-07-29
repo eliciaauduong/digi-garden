@@ -3,7 +3,7 @@ title: Project dispatch
 stage: evergreen
 ---
 ## Dispatches from the field
-I'm on a mission this year to [[speed|increase my speed to output]]. Here is a living record of what I'm creating. This page updates as projects progress - come back soon to see what I've created.
+I'm on a mission this year to [[speed|increase my speed to output]]. Here is a living record of my project progress - come back soon to see what I've created.
 
 ### Live projects
 - [2026/07/17] [[practice-call|Practice Call]] 
@@ -12,8 +12,8 @@ I'm on a mission this year to [[speed|increase my speed to output]]. Here is a l
 
 ### Currently building
 - [[set-design|Set designs]]
-- [[zines]]
 - [[Project 0]]
+- [[catalist]]
 
 ### Future projects
 - [[crafts backlog]]
