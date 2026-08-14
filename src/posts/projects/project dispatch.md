@@ -13,7 +13,6 @@ I'm on a mission this year to [[speed|increase my speed to output]]. Here is a l
 ### Currently building
 - [[set-design|Set designs]]
 - [[Project 0]]
-- [[catalist]]
 
 ### Future projects
 - [[crafts backlog]]

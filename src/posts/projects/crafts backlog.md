@@ -4,7 +4,7 @@ stage: seedling
 ---
 Art and craft ideas that I've stumbled on and want to make someday.
 
-1. [[zines]]
+1. zines
 2. [[hardware|cyberdeck]]
 3. card-making
 	- pop-up cards
