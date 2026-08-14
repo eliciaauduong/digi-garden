@@ -1,5 +1,6 @@
 ---
 title: Cost of Community
+date: Last Modified
 stage: seedling
 ---
 

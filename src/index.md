@@ -1,6 +1,7 @@
 ---
 layout: "base.njk"
 title: Hello, world!
+date: Last Modified
 stage: evergreen
 ---
 Hi, I'm Elicia and welcome to my [[digital garden|digital garden]]. Thanks for stopping by!

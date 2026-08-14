@@ -1,5 +1,6 @@
 ---
 title: Project 0
+date: 2026-07-02
 stage: growing
 ---
 ## What is project 0?
@@ -14,7 +15,7 @@ Each month, we'll host 3 sessions around a theme:
 3. Collect: swap and share ideas or items
 
 ## Coming soon
-September: Social butterfly
+September: Spring cleaning
 - Digital decluttering
 - All about community + friends
 - Spring journalling - washi swap

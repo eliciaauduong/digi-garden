@@ -1,5 +1,6 @@
 ---
 title: Digital loyalty
+date: Last Modified
 stage: seedling
 ---
 ## Objective

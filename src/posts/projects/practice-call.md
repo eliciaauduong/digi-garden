@@ -1,5 +1,6 @@
 ---
 title: Practice Call
+date: 2026-07-17
 stage: bloom
 ---
 ## What is Practice Call?

@@ -1,5 +1,6 @@
 ---
 title: Trends are self-fulfiling prophecies
+date: Last Modified
 stage: seedling
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Set design
+date: 2026-07-08
 stage: bloom
 ---
 I recently completed a two-day **Set Design Essentials** course from NIDA Open and it was probably one of the best learning experiences I've ever had. 

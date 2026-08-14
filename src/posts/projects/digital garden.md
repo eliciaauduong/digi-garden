@@ -1,5 +1,6 @@
 ---
 title: Digital garden
+date: Last Modified
 stage: bloom
 ---
 This garden is always a work in progress. Notes are organised into the following categories:
