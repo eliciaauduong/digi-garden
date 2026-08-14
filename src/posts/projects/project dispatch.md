@@ -8,7 +8,7 @@ I'm on a mission this year to [[speed|increase my speed to output]]. Here is a l
 ### Live projects
 - [2026/07/17] [[practice-call|Practice Call]] 
 - [2026/07/02] [[Digital garden]]
-- [2026/07/02] [[wave|Wave]]
+- [2026/07/02] [[wave]]
 
 ### Currently building
 - [[set-design|Set designs]]
