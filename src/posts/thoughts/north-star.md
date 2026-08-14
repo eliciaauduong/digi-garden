@@ -21,5 +21,5 @@ Right now, I'm thinking about:
 If curiosity is about input, then play is about output. It sounds like something just for children, but who said play had to stop when we 'grow up'. What started out as a search for little joys to break up the monotony of a work week has expanded to pull me towards a world of possibility. To me, playing opens a window of opportunity to try without fear of failure and create without reason.
 
 Here's what I'm creating:
-- [[zines]]
 - [[digital garden]]
+- [[project 0]]
