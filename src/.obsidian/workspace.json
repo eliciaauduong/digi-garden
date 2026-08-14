@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ab97b1bde457c647",
+        "id": "856967bd0b8b5b07",
         "type": "tabs",
         "children": [
           {
-            "id": "d5e574891a9eb2f7",
+            "id": "b33d6dbed9eeebf7",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -37,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -179,7 +181,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "44c2b0d2880f6344",
+  "active": "b33d6dbed9eeebf7",
   "lastOpenFiles": [
     "Untitled.base",
     "Are You Building A World That Fans Can Belong To.md",
