@@ -25,9 +25,11 @@ This takes shape in two ways:
 - Cross-functional collaboration processes
 - Cohesive brand experience across digital and physical touchpoints
 
+Learn more about my [[career-manifesto|career manifesto]].
+
 ## This season
 
-Open to collaborations — advisory work, community projects, or anything at the intersection of systems and spaces.
+Open to collaborations and project work. Currently building [[project 0]].
 
 ## Previously...
 
