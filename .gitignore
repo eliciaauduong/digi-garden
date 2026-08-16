@@ -20,4 +20,5 @@ Thumbs.db
 npm-debug.log*
 
 #obsidian
-.obsidian/
+.obsidian/workspace.json
+.obsidian/app.json
