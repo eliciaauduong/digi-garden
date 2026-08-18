@@ -7,8 +7,6 @@ I build a world around every project - one that carries the message someone shou
 
 I don't start with the pieces. I start with what someone should leave with, then find the connections between details that weave into a single structure.
 
-The best of this work disappears. When the structure is right, people don't notice it as structure, they absorb it as the norm and walk away with clarity. What they never notice is the chaos that was resolved.
-
 This takes shape in two ways:
 
 **Spaces:** things people can step into and explore.
