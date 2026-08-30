@@ -20,5 +20,5 @@ Reminders that this is working for me:
 | Project            	| Idea to build time	|
 |-------------------	|-------------------	|
 | [[digital garden]] 	| 1 day              	|
-| [[wave]]           	| 1 week             	|
+| [[wave-app]]           	| 1 week             	|
 | [[practice-call]]  	| 2 days         	    |
