@@ -1,5 +1,6 @@
 ---
 title: Speed to action
+date: 2026-07-02
 stage: seedling
 ---
 I used to be an idea hoarder. Waiting for the *perfect* time to unleash my full potential and bring my dreams into reality. But ideas just sat hidden in a discarded notebook or lost in the back of my mind. 
