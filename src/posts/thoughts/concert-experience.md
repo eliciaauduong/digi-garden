@@ -1,5 +1,6 @@
 ---
 title: Fan observations of the concert experience
+date: 2026-07-02
 stage: seedling
 alias: 
     - concert

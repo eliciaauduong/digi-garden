@@ -1,5 +1,6 @@
 ---
 title: Trends are self-fulfiling prophecies
+date: 2026-08-01
 stage: seedling
 ---
 
