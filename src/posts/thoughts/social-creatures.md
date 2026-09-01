@@ -1,5 +1,6 @@
 ---
-title: Social creatures
+title: Humans are social creatures
+date: 2026-08-14
 stage: seedling
 ---
 
