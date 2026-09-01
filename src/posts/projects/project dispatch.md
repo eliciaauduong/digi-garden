@@ -1,6 +1,5 @@
 ---
 title: Project dispatch
-date: Last Modified
 stage: evergreen
 ---
 ## Dispatches from the field
@@ -17,6 +16,7 @@ I'm on a mission this year to [[speed|increase my speed to output]]. Here is a l
 
 ### Future projects
 - [[crafts backlog]]
+- [[someday-app]]
 - [[hardware|electronics starter kit]]
 - [[merch design]]
 - pomodoro timer

@@ -1,6 +1,5 @@
 ---
 title: Curiosity and play as my north star
-date: Last Modified
 aliases:
   - north star
 stage: evergreen

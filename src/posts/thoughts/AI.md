@@ -1,6 +1,5 @@
 ---
 title: My AI approach
-date: Last Modified
 stage: growing
 ---
 

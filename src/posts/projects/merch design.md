@@ -1,6 +1,5 @@
 ---
 title: Merch design
-date: Last Modified
 stage: seedling
 ---
 I've always been drawn to merch design - a little way to [[fandoms|support your favourite things/people]] and show your interests.

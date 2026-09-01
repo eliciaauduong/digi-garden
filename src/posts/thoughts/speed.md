@@ -1,6 +1,5 @@
 ---
 title: Speed to action
-date: Last Modified
 stage: seedling
 ---
 I used to be an idea hoarder. Waiting for the *perfect* time to unleash my full potential and bring my dreams into reality. But ideas just sat hidden in a discarded notebook or lost in the back of my mind. 
@@ -20,5 +19,5 @@ Reminders that this is working for me:
 | Project            	| Idea to build time	|
 |-------------------	|-------------------	|
 | [[digital garden]] 	| 1 day              	|
-| [[wave-app]]           	| 1 week             	|
+| [[wave-app]]        | 1 week             	|
 | [[practice-call]]  	| 2 days         	    |

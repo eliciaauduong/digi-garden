@@ -1,6 +1,5 @@
 ---
 title: Algorithmic transparency
-date: Last Modified
 stage: seedling
 ---
 ## Objective

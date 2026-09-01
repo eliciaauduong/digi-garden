@@ -1,6 +1,6 @@
 ---
 title: Career manifesto
-date: Last Modified
+date: 2026-09-01
 stage: evergreen
 ---
 

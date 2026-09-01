@@ -1,6 +1,5 @@
 ---
 title: Trust as infrastructure
-date: Last Modified
 stage: seedling
 ---
 ## Objective

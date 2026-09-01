@@ -1,6 +1,5 @@
 ---
 title: Cognitive capacity
-date: Last Modified
 stage: seedling
 ---
 ## Objective

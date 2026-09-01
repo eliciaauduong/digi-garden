@@ -1,6 +1,5 @@
 ---
 title: Crafts backlog
-date: Last Modified
 stage: seedling
 ---
 Art and craft ideas that I've stumbled on and want to make someday.

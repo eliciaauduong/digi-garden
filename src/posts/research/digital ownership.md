@@ -1,6 +1,5 @@
 ---
 title: Digital ownership
-date: Last Modified
 stage: seedling
 ---
 ## Objective

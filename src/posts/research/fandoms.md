@@ -1,6 +1,5 @@
 ---
 title: Fandoms
-date: Last Modified
 stage: seedling
 ---
 ## Objective

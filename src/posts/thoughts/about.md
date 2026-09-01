@@ -1,6 +1,6 @@
 ---
 title: About me
-date: Last Modified
+date: 2026-08-14
 stage: evergreen
 ---
 I build a world around every project - one that carries the message someone should walk away with, and holds itself together through the smallest details, where one choice quietly answers another.
