@@ -1,5 +1,6 @@
 ---
 title: Web3
+date: 2026-08-01
 stage: seedling
 ---
 ## Objective

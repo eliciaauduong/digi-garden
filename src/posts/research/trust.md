@@ -1,5 +1,6 @@
 ---
 title: Trust as infrastructure
+date: 2026-08-01
 stage: seedling
 ---
 ## Objective

@@ -1,5 +1,6 @@
 ---
 title: Digital ownership
+date: 2026-08-01
 stage: seedling
 ---
 ## Objective
