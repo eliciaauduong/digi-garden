@@ -1,13 +1,13 @@
 ---
-title: "Can't go back to analogue"
+title: Never completely analogue
+date: 2026-08-31
 stage: seedling
 ---
 
-Online and offline disconnect
+I only remember glimpses of a life before digital became a major player, before my world was split in two: online and offline. 
 
-Leaving Instagram things I noticed:
-- can't follow along with brand updates that I would regularly see before
-
-Brand engagement
-- 3 ways right now: offline (in store), email newsletter, social media
-we need to stop meeting like this
+Things I want to dive deeper into:
+- How can you stay up to date with a brand you like if you don't have social media? email newsletters? What if they don't have a physical store?
+- How every interaction at a physical store feels like starting a new conversation (we have to stop meeting like this). 
+- How we've lost touch with casual interactions e.g. you don't have to talk to a single person at the supermarket, everybody glued to their phones on public transport.
+- How trying to improve your digital habits feels like going against the grain.
