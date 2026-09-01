@@ -38,6 +38,6 @@ The moment I add the most value:
 
 ## How I operate best
 
-I do my best work in ambiguous environments: a clear goal, but no fixed direction yet, and the time to sit with all the moving parts before committing to a path. I do my best diagnosing and designing when I start from an agreed intended outcome and work backwards from there.
+I do my best work in ambiguous environments: a clear goal, but no fixed direction yet, and the time to sit with all the moving parts before committing to a path. I do my best diagnosing and designing when I start from an agreed intended outcome and work backwards from there. Read more about [[AI|my stance on AI]].
 
-I thrive in calm, focused environments with small, capable teams and high trust between them. If you’re building something that resonates with anything I’ve written, I’d love to chat! Please reach out at [eliciaauduong@proton.me](mailto:eliciaauduong@proton.me).
+I thrive in calm, focused environments with small, capable teams and high trust between them. If you’re building something that resonates with anything I’ve written, I’d love to chat! Please reach out at [eliciaauduong@gmail.com](mailto:eliciaauduong@gmail.com).
