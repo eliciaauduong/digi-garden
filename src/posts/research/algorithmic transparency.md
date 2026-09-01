@@ -1,5 +1,6 @@
 ---
 title: Algorithmic transparency
+date: 2026-08-01
 stage: seedling
 ---
 ## Objective
