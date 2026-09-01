@@ -1,5 +1,6 @@
 ---
 title: Project dispatch
+date: 2026-09-01
 stage: evergreen
 ---
 ## Dispatches from the field

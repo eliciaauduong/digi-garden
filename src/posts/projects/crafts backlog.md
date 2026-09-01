@@ -1,5 +1,6 @@
 ---
 title: Crafts backlog
+date: 2026-08-01
 stage: seedling
 ---
 Art and craft ideas that I've stumbled on and want to make someday.
