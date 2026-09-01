@@ -12,4 +12,10 @@ I like to think *a lot* and this garden is my way of getting thoughts and ideas 
 Learn more [[about|about me]] or [[project dispatch|see what I'm creating]]. 
 
 Here are my latest updates:
-- [[career-manifesto]]
+<ul>
+  {% for page in collections.latestPages %}
+    <li>
+      <a href="{{ page.url }}">{{ page.data.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

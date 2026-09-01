@@ -20,6 +20,17 @@ module.exports = function (eleventyConfig) {
     return Math.ceil(words / 200); // ~200 wpm average
   });
 
+  // Custom collection for latest 3 pages
+  eleventyConfig.addCollection("latestPages", function(collectionApi) {
+    return collectionApi.getAll()
+      // Filter out files without a title or excluded pages
+      .filter(item => item.data.title && !item.data.eleventyExcludeFromCollections)
+      // Sort by date descending (newest first)
+      .sort((a, b) => b.date - a.date)
+      // Grab only the top 3
+      .slice(0, 3);
+  });
+  
   return {
     dir: {
       input: "src",
