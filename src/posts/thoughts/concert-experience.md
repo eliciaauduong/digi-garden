@@ -1,36 +1,26 @@
 ---
 title: Fan observations of the concert experience
-date: 2026-07-02
-stage: seedling
-alias: 
-    - concert
+date: 2026-09-02
+stage: growing
 ---
 
-This year, i've been paying more attention to my concert experience. maybe it's because of working all these different shows. maybe it's because I work to make money to go to these shows. maybe it's because there's room to grow.
+Nothing in this world can compare to those few seconds when the house lights go down and an artist is about to step on the stage to start the show. Glancing around at the people, fans, around you like you're all in on a secret: you're about to have the time of your life!
 
-now that i'm currently in a lull between my concerts i'm putting together this post
+And truly, you do! I encourage everyone I know to go to a concert. There's something really special when you watch an artist in their element, performing songs you know and love right in front of your eyes. 
 
-- concert experience is one-off
-	- in my experience the high cost means i'm very unlikely to attended multiple shows for the same tour
-    - artist be like who's been to our shows before? who's first time at one of our shows
-        - what if? it could be like when you scan into the concerts
-            - welcome back to see artist - thank you for your ongoing support, it's great to see you again
-            - welcome to your first artist show - we're so excited that you're here
-    - doesn't reward loyalty but also not really any opportunities for building loyalty too
-        - what are the chances of people returning to see the same artist again?
-- concert experience starts and ends at the show
-    - sure there may be some after parties at nearby venue but not really connecting back to the artist/fandom
-    - some artists have QR code to sign up to their mailing list
-	    - i like that there's new fun ways to get people to sign up e.g. voting on songs @ ed sheeran, merch giveaways too but it all ends up at nothing because there isn't much value from the newsletters
-		    - usually emails are just around general tour announcements, merch, don't think there's anything else
-	    - i've only signed up to mailing lists to get pre-sale codes before the tickets are released
-		    - but there's also emails from venues, promoters etc. that also may have pre-sale
-- pre-event comms
-    - does not make me excited
-    - logistics from the venue - what about from the artist?
+But, sometimes I wish there was more. Unless you're fortunate enough to afford tickets to more than one show in a tour, the concert experience is usually one-off. The whole experience starts and ends at the show. Like a little bubble, it's own little world.
 
-- the experience is disconnected across platforms
-	- there is community but it's fragmented
-		- bring back the peak twitter/tumblr era
+Some observations that I've noticed and ideas that I'd like to explore:
+### Mailing lists
+I've only signed up to mailing lists to get pre-sale codes/access before the tickets are released, rarely as a reliable way to get updates from an artist. Communications feel jumbled between artists, venues and promoters. For larger shows there's so many pre-sale options sometimes I don't even see the benefit of signing up for a specific mailing list.
 
-[[merch design]]
+Pre-show comms do not excite me. It feels like a void from the moment I purchase my tickets to the week of the show (where I have to figure out outfits and logistics). I like that some artists have more engaging ways of getting our contacts (like voting on songs @ Ed Sheeran's Loop tour or merch giveaways). Usually, emails are just general tour announcements, merch, maybe some logistics from the venue, not really something that makes me feel closer to the artist or the music.
+
+### Post-show experience
+Give me anything to extend or relive the night, cure my PCD (post-concert depression)! Maybe some new [[merch-design|merch ideas]]?
+
+### Fan to fan community
+It's been a while since I've been on twitter, where fans would so quickly and easily gather around a moment in support of an artist. Maybe it's because I'm not on these social media platforms anymore that I feel disconnected from the fandoms. Being surrounded by so many fans at a show, it's clear that community is there, but it's fragmented across platforms and spaces.
+
+### What else?
+I'm interested in exploring more about [[fandoms|fandoms]], communities and fan to artist relationships.
