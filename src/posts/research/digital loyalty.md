@@ -28,4 +28,3 @@ Personalisation and surveillance exist on a continuum with no clear boundary —
 - [[data asymmetry]]
 - [[digital ownership]]
 - [[algorithmic transparency]]
-- [[we have to stop meeting like this]]
