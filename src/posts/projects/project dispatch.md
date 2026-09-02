@@ -19,5 +19,5 @@ I'm on a mission this year to [[speed|increase my speed to output]]. Here is a l
 - [[crafts backlog]]
 - [[someday-app]]
 - [[hardware|electronics starter kit]]
-- [[merch design]]
+- [[merch-design]]
 - pomodoro timer
