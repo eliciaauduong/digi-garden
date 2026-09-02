@@ -19,11 +19,10 @@ Questioning everything is epistemically healthy but societally destabilising —
 - What creates a community built on trust — what are the actual conditions and mechanisms? 
 - How can trust be restored once broken, and are there documented examples of recovery at scale? 
 - What are the individual and community-level impacts of chronic distrust? 
-- How do we distinguish fact from fiction when AI-generated content makes verification increasingly difficult? https://www.theatlantic.com/ideas/2026/03/ai-confidence-trust/686464/
+- How do we distinguish fact from fiction when AI-generated content makes verification increasingly difficult? 
 
 ## Connections
 - [[algorithmic transparency]]
 - [[fandoms]]
-- [[cognitive capacity]]
+- [[cognitive-capacity]]
 - [[web3]]
-- [[false confidence]]

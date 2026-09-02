@@ -13,7 +13,7 @@ This takes shape in two ways:
 
 - [[project 0]], a space to connect and create together, running monthly: digital declutter, journalling, article selection
 - [[digital garden]], where thoughts and ideas are worked out in the open
-- Microsites and small apps such as [[wave]]
+- Microsites and small apps such as [[wave-app]]
 - [[set-design]], a practice that I'm slowly exploring
 
 **Systems:** structures built to hold the chaos so someone else doesn't have to. 

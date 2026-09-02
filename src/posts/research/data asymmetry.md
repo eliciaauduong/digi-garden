@@ -10,7 +10,7 @@ Examine how companies collect, model, and exploit behavioural data while individ
 Companies build narrow, static data portraits of individuals — a data point rather than a person — and use that portrait to predict and exploit behaviour. Over time, individuals have handed data to countless platforms and services with no way of knowing who holds what. The GDPR gives the right to request that data but not the means to understand it. That gap between access and comprehension is where the real power sits.
 
 ## Working thesis
-Data asymmetry is both a knowledge problem and a power problem, but the second is the harder truth. Disclosure alone cannot fix the imbalance — even when consumers have legal access to their data, they lack the [[cognitive capacity|cognitive]] and technical tools to process it meaningfully. Comprehension at scale is impossible for an individual. This means the asymmetry is structurally self-reinforcing: the same cognitive load that makes data overwhelming to process is what allows companies to maintain the power imbalance behind a facade of transparency.
+Data asymmetry is both a knowledge problem and a power problem, but the second is the harder truth. Disclosure alone cannot fix the imbalance — even when consumers have legal access to their data, they lack the [[cognitive-capacity|cognitive]] and technical tools to process it meaningfully. Comprehension at scale is impossible for an individual. This means the asymmetry is structurally self-reinforcing: the same cognitive load that makes data overwhelming to process is what allows companies to maintain the power imbalance behind a facade of transparency.
 
 ## Current stage
 Fresh. No prior reading, though the topic threads through professional and intellectual background.

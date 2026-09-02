@@ -15,8 +15,8 @@ So, how am I making work fun? By aiming for two factors: curiosity and play.
 The fastest way to understand my curiosities was by looking at the content that I consume - articles, books and podcasts. What makes me draw in closer? Put me in flow state? Ask further questions? These are the threads of inspiration that push my work forward.
 
 Right now, I'm thinking about:
-- [[set-design|set design]]
-- [[cognitive capacity]]
+- [[concert-experience]]
+- [[content-overload]]
 
 ## Play
 If curiosity is about input, then play is about output. It sounds like something just for children, but who said play had to stop when we 'grow up'. What started out as a search for little joys to break up the monotony of a work week has expanded to pull me towards a world of possibility. To me, playing opens a window of opportunity to try without fear of failure and create without reason.
