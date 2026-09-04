@@ -1,6 +1,6 @@
 ---
 title: Welcome to Elicia's World!
-date: 2026-09-02
+date: 2026-09-03
 stage: bloom
 ---
 
@@ -17,5 +17,6 @@ Currently, it includes:
 ## Future plans
 - playhtml presence
 - message board
-- services
+- services/offerings
 - recommendations list: articles, albums, videos, anything
+- part of your world: offline creations
