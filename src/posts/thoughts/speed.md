@@ -8,7 +8,7 @@ I used to be an idea hoarder. Waiting for the *perfect* time to unleash my full 
 One of my main goals this year is to increase my speed to action: How quickly can I go from idea to something live?
 
 Here's my current approach:
-- List out [[project dispatch|all my projects and ideas]]
+- List out [[project-dispatch|all my projects and ideas]]
 - Select one that sounds the most exciting in this moment
 - Figure out what is the simplest form of this idea that I could make exist
 - Build 1 small thing each day

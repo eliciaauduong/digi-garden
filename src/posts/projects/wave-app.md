@@ -17,7 +17,7 @@ What I learnt from university and previous projects is that functional prototype
 
 As I was building, I thought it would be fun to experiment with a set of watercolour pencils that have been sitting in a drawer since I came back from Japan last December. I've always love arts and crafts, and making my own project was the perfect reason to incorporate physical illustrations into the digital world. So, in the [[north-star|spirit of play]], I sat down one afternoon to experiment with different forms and colour combinations to see what style I liked best, before finally landing on the ships you see in the app.
 
-Overall, I think this was a nice quick way to get back into dev and it was very fun to see the illustrations and animations get updated through each iteration. Now, onto the [[project dispatch|next project]]!
+Overall, I think this was a nice quick way to get back into dev and it was very fun to see the illustrations and animations get updated through each iteration. Now, onto the [[project-dispatch|next project]]!
 
 ## Dev notes
 **Features**

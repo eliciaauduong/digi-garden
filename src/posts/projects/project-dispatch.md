@@ -7,6 +7,7 @@ stage: evergreen
 I'm on a mission this year to [[speed|increase my speed to output]]. Here is a living record of my project progress - come back soon to see what I've created.
 
 ### Live projects
+- [2026/08/30] [[world]]
 - [2026/07/17] [[practice-call|Practice Call]] 
 - [2026/07/02] [[Digital garden]]
 - [2026/07/02] [[wave-app]]
@@ -21,3 +22,4 @@ I'm on a mission this year to [[speed|increase my speed to output]]. Here is a l
 - [[hardware|electronics starter kit]]
 - [[merch-design]]
 - pomodoro timer
+- [[hush]]
