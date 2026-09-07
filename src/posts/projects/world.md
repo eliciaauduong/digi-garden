@@ -1,6 +1,6 @@
 ---
 title: Welcome to Elicia's World!
-date: 2026-09-03
+date: 2026-09-07
 stage: bloom
 ---
 
@@ -21,3 +21,7 @@ Currently, it includes:
 - message board
 - recommendations list: articles, albums, videos, anything - important to include why it is recommended, like the library recommendations. 
 - 3d rotating model on offerings page
+
+## History
+2026-09-07 v2 update
+2026-09-03 v1 launch
