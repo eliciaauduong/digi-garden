@@ -1,6 +1,6 @@
 ---
 title: Lookout app
-date: 2025-09-13
+date: 2026-09-13
 stage: seedling
 ---
 
