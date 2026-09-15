@@ -1,6 +1,6 @@
 ---
 title: Welcome to Elicia's World!
-date: 2026-09-07
+date: 2026-09-15
 stage: bloom
 ---
 
