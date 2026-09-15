@@ -15,7 +15,13 @@ Each month, we'll host 3 sessions around a theme:
 3. Collect: swap and share ideas or items
 
 ## Coming soon
-September: Spring cleaning
+October 2026: Spooky season
+- Face your figs
+- You can just do things
+- Creative carousel
+
+## Previous events
+September 2026: Spring cleaning
 - Digital decluttering
-- All about community + friends
+- Social butterflies
 - Spring journalling - washi swap
