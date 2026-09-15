@@ -16,10 +16,16 @@ Currently, it includes:
 - **Library**: my favourite things (still playing around with the layout though)
 - **Archive**: my history
 
+## Under construction
+Library: 
+- Building this as a choose your own adventure to uncover my recommendations. I'm trying out some creative writing so this is a fun way to test it out. 
+- I'm still working out how I want to lay out the full collection of recommendations. I want it to look like an adventure game but include my reasoning for why I selected each recommendation.
+- I'm also linking the library to [[lookout-app]] - this will be a landing page to gage interest and maybe some ideas for my current searches.
+
 ## Future plans
 - playhtml presence
 - message board
-- recommendations list: articles, albums, videos, anything - important to include why it is recommended, like the library recommendations. 
+-library: add little forest pixel art to bottom of the page, a tree grows in the forest every time an offering is sent.
 - 3d rotating model on offerings page
 
 ## History
