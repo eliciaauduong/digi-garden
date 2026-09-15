@@ -1,6 +1,6 @@
 ---
 title: Project 0
-date: 2026-07-02
+date: 2026-09-15
 stage: growing
 ---
 ## What is project 0?
