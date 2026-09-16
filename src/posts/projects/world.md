@@ -4,7 +4,7 @@ date: 2026-09-15
 stage: bloom
 ---
 
-I've finally launched my space on the internet! It's built with HTML/CSS/JS and some fun features using [playhtml](https://playhtml.fun). You can't access it on mobile, on purpose. As I'm building better digital habits, I hope to encourage others to do the same. You can [check out my website](https://eliciaauduong.github.io/website/), click around and explore my little world.
+I've finally launched my space on the internet! It's built with HTML/CSS/JS and some fun features using [playhtml](https://playhtml.fun). You can't access it on mobile, on purpose. As I'm building better digital habits, I hope to encourage others to do the same. You can [check out my website](https://eliciaauduong.com), click around and explore my little world.
 
 Currently, it includes:
 - **Checkpoint**: Things that I'm actively working on
