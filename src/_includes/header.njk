@@ -1,3 +1,8 @@
 <header>
   <h1>🌷 Elicia's Garden</h1>
+  <b>Inventory: </b>
+  <p> {{ collections.postsByStage['seedling'].length | default(0) }}🌱 | 
+    {{ collections.postsByStage['growing'].length | default(0) }}🌿 |
+    {{ collections.postsByStage['bloom'].length | default(0) }}🌸 | 
+    {{ collections.postsByStage['evergreen'].length | default(0) }}🌳</p>
 </header>

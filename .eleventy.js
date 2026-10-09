@@ -31,6 +31,24 @@ module.exports = function (eleventyConfig) {
       .slice(0, 3);
   });
   
+  // Count by stages
+  eleventyConfig.addCollection("postsByStage", function(collectionApi) {
+    const posts = collectionApi.getFilteredByGlob("src/posts/**/*.md");
+    const stages = {};
+
+    posts.forEach(item => {
+      const stage = item.data.stage;
+      if (!stage) return; // Skip posts without a 'stage' field
+
+      if (!stages[stage]) {
+        stages[stage] = [];
+      }
+      stages[stage].push(item);
+    });
+
+    return stages;
+  });
+
   return {
     dir: {
       input: "src",
